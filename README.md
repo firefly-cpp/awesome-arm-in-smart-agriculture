@@ -1,4 +1,4 @@
-# A collection of literature on the use of computational intelligence methods in sports
+# A collection of literature on the use of association rule mining methods in smart farming
 
 ## Review papers
 
