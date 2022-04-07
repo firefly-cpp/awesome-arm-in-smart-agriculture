@@ -8,6 +8,8 @@ Vignesh, N., and D. C. Vinutha. "Association Rule Data Mining in Agriculture–A
 
 ## Journal papers
 
+Molajou, Amir, Parsa Pouladi, and Abbas Afshar. "Incorporating social system into water-food-energy nexus." Water Resources Management 35.13 (2021): 4561-4580
+
 Kunstelj, Nataša, D. Ţnidarčič, and Branko Šter. "Using Association Rules Mining for Sweetpotato (Ipomoea batatas L.) in Slovenia: a Case Study." Int. J. Food, Agric. and Environ 11 (2013): 253-258.
 
 Rajesh, D. "Application of spatial data mining for agriculture." International Journal of Computer Applications 15.2 (2011): 7-9.
