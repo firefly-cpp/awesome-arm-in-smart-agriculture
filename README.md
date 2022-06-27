@@ -31,3 +31,8 @@ Hira, Swati, and P. S. Deshpande. "Data analysis using multidimensional modeling
 Hu, Yaoguang, et al. "Research on knowledge mining for agricultural machinery maintenance based on association rules." 2015 IEEE 10th Conference on Industrial Electronics and Applications (ICIEA). IEEE, 2015.
 
 Tripathy, Amiya Kumar, J. Adinarayana, and D. Sudharsan. "Geospatial data mining for Agriculture pest management-a framework." 2009 17th International Conference on Geoinformatics. IEEE, 2009.
+
+
+## Contributing
+
+Contributions are always welcome :smile:
