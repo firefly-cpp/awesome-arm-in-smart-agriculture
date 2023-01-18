@@ -30,6 +30,8 @@ Hira, Swati, and P. S. Deshpande. “[Data Analysis Using Multidimensional Model
 
 Hu, Yaoguang, et al. “[Research on Knowledge Mining for Agricultural Machinery Maintenance Based on Association Rules](https://ieeexplore.ieee.org/document/7334235).” 2015 IEEE 10th Conference on Industrial Electronics and Applications (ICIEA), IEEE, 2015, pp. 885–90, doi:[10.1109/ICIEA.2015.7334235](https://doi.org/10.1109/ICIEA.2015.7334235).
 
+Fister, Iztok, and Sancho Salcedo-Sanz. “[Time Series Numerical Association Rule Mining for Assisting Smart Agriculture](https://ieeexplore.ieee.org/document/9873094)”. 2022 International Conference on Electrical, Computer and Energy Technologies (ICECET), IEEE, 2022, pp. 1–6, doi:[10.1109/ICECET55527.2022.9873094](https://doi.org/10.1109/ICECET55527.2022.9873094).
+
 Tripathy, A. K., et al. “[Geospatial Data Mining for Agriculture Pest Management - a Framework](https://ieeexplore.ieee.org/abstract/document/5293296).” 17th International Conference on Geoinformatics, IEEE, 2009, pp. 1–6, doi:[10.1109/GEOINFORMATICS.2009.5293296](https://doi.org/10.1109/GEOINFORMATICS.2009.5293296).
 
 ## Contributing
