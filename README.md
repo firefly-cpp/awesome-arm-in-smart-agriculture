@@ -32,7 +32,7 @@ Hu, Yaoguang, et al. “[Research on Knowledge Mining for Agricultural Machinery
 
 Fister Jr, Iztok, and Sancho Salcedo-Sanz. “[Time Series Numerical Association Rule Mining for Assisting Smart Agriculture](https://ieeexplore.ieee.org/document/9873094)”. 2022 International Conference on Electrical, Computer and Energy Technologies (ICECET), IEEE, 2022, pp. 1–6, doi:[10.1109/ICECET55527.2022.9873094](https://doi.org/10.1109/ICECET55527.2022.9873094).
 
-Fister Jr, Iztok, et al. “[Time Series Numerical Association Rule Mining Variants in Smart Agriculture](https://arxiv.org/abs/2212.03669)”. arXiv, Dec. 2022, doi:[10.48550/arxiv.2212.03669](https://doi.org/10.48550/arxiv.2212.03669).
+Fister Jr, Iztok, et al. “[Time Series Numerical Association Rule Mining Variants in Smart Agriculture](https://arxiv.org/abs/2212.03669)”. arXiv, Dec. 2022, doi:[10.48550/arxiv.2212.03669](https://doi.org/10.48550/arxiv.2212.03669). Preprint.
 
 Tripathy, A. K., et al. “[Geospatial Data Mining for Agriculture Pest Management - a Framework](https://ieeexplore.ieee.org/abstract/document/5293296).” 17th International Conference on Geoinformatics, IEEE, 2009, pp. 1–6, doi:[10.1109/GEOINFORMATICS.2009.5293296](https://doi.org/10.1109/GEOINFORMATICS.2009.5293296).
 
