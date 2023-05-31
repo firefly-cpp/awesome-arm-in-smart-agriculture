@@ -36,6 +36,11 @@ Fister Jr, Iztok, et al. “[Time Series Numerical Association Rule Mining Varia
 
 Tripathy, A. K., et al. “[Geospatial Data Mining for Agriculture Pest Management - a Framework](https://ieeexplore.ieee.org/abstract/document/5293296).” 17th International Conference on Geoinformatics, IEEE, 2009, pp. 1–6, doi:[10.1109/GEOINFORMATICS.2009.5293296](https://doi.org/10.1109/GEOINFORMATICS.2009.5293296).
 
+## Datasets
+
+[Arion rufus snails dataset](https://github.com/firefly-cpp/snail-dataset)
+[Monitoring plants](https://github.com/firefly-cpp/smart-agriculture-datasets/tree/main/plant-monitoring-esp32)
+
 ## Contributing
 
 Contributions are always welcome :smile:
