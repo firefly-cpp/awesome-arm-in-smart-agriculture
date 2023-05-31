@@ -39,6 +39,7 @@ Tripathy, A. K., et al. “[Geospatial Data Mining for Agriculture Pest Manageme
 ## Datasets
 
 [Arion rufus snails dataset](https://github.com/firefly-cpp/snail-dataset)
+
 [Monitoring plants](https://github.com/firefly-cpp/smart-agriculture-datasets/tree/main/plant-monitoring-esp32)
 
 ## Contributing
