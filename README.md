@@ -1,7 +1,7 @@
 # Awesome Association Rule Mining in Smart Agriculture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <p align="center">
-<img src="/.github/logo/Logo_256.png" alt="Awesome Computational Intelligence in Sports logo" style="height: 126px; width:126px;"/>
+<img src="/.github/logo/Logo_256.png" alt="Awesome Computational Intelligence in Sports logo" style="height: 256px; width:256px;"/>
 </p>
 
 ---
