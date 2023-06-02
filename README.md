@@ -12,10 +12,10 @@ This repository is designed to serve as a comprehensive resource for researchers
 ---
 
 ## Contents
-- [Review papers ⚖️](#review-papers-⚖️)
-- [Journal papers 📄](#journal-papers-📄)
-- [Proceedings 📖](#proceedings-📖)
-- [Datasets 📊](#datasets-📊)
+- [Review papers ⚖️](#review-papers-)
+- [Journal papers 📄](#journal-papers-)
+- [Proceedings 📖](#proceedings-)
+- [Datasets 📊](#datasets-)
 
 ## Review papers ⚖️
 
