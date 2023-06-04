@@ -29,6 +29,8 @@ Kunstelj, Nataša, et al. “[Using Association Rules Mining for Sweet Potato (I
 
 Li, Tianxin, et al. “[Mining of the Association Rules between Industrialization Level and Air Quality to Inform High-Quality Development in China](https://www.sciencedirect.com/science/article/pii/S0301479719308230).” Journal of Environmental Management, vol. 246, Academic Press, Sept. 2019, pp. 564–74, doi:[10.1016/j.jenvman.2019.06.022](https://doi.org/10.1016/j.jenvman.2019.06.022).
 
+Liang, Buwen, et al. “[Multidrug Resistance Analysis Method for Pathogens of Cow Mastitis Based on Weighted-Association Rule Mining and Similarity Comparison](https://www.sciencedirect.com/science/article/abs/pii/S0168169921004282).” Computers and Electronics in Agriculture, vol. 190, Nov. 2021, p. 106411, doi:[10.1016/J.COMPAG.2021.106411](https://doi.org/10.1016/J.COMPAG.2021.106411).
+
 Molajou, Amir, et al. “[Incorporating Social System into Water-Food-Energy Nexus](https://link.springer.com/article/10.1007/s11269-021-02967-4).” Water Resources Management, vol. 35, no. 13, Springer Science and Business Media B.V., Oct. 2021, pp. 4561–80, doi:[10.1007/S11269-021-02967-4/FIGURES/6](https://doi.org/10.1007/S11269-021-02967-4/FIGURES/6).
 
 Rajesh, D. “[Application of Spatial Data Mining for Agriculture](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.206.3496&rep=rep1&type=pdf).” International Journal of Computer Applications, vol. 15, no. 2, Feb. 2011, pp. 7–9, doi:[10.5120/1922-2566](https://doi.org/10.5120/1922-2566).
