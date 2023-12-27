@@ -4,6 +4,8 @@
 <img src="/.github/logo/Logo_256.png" alt="Awesome Computational Intelligence in Sports logo" style="height: 256px; width:256px;"/>
 </p>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10435768.svg)](https://doi.org/10.5281/zenodo.10435768)
+
 ---
 We are curating **awesome** research and approaches to **Association Rule Mining in Smart Agriculture**!
 
