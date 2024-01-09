@@ -63,6 +63,10 @@ Tripathy, A. K., et al. “[Geospatial Data Mining for Agriculture Pest Manageme
 
 [Monitoring plants](https://github.com/firefly-cpp/smart-agriculture-datasets/tree/main/plant-monitoring-esp32)
 
+---
 
+## Cite us
+
+Fister Jr., I. (2023). firefly-cpp/awesome-computational-intelligence-in-sports: 1.0 (1.0). Zenodo. [https://doi.org/10.5281/zenodo.10431418](https://doi.org/10.5281/zenodo.10431418)
 
 
