@@ -67,6 +67,6 @@ Tripathy, A. K., et al. “[Geospatial Data Mining for Agriculture Pest Manageme
 
 ## Cite us
 
-Fister Jr., I. (2023). firefly-cpp/awesome-computational-intelligence-in-sports: 1.0 (1.0). Zenodo. [https://doi.org/10.5281/zenodo.10431418](https://doi.org/10.5281/zenodo.10431418)
+Fister Jr., I. (2023). firefly-cpp/awesome-arm-in-smart-agriculture: 1.0 (1.0). Zenodo. [https://doi.org/10.5281/zenodo.10435768](https://doi.org/10.5281/zenodo.10435768)
 
 
